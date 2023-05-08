@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository using the details below."
+authors:
+- family-names: "Gupte"
+  given-names: "Pratik Rajan"
+  orcid: "https://orcid.org/0000-0001-5294-7819"
+title: "Methods for fast spatial overlap calculations between animal residence patches"
+version: 0.0.9.000
+date-released: 2023-03-26
+url: "https://github.com/pratikunterwegs/patchoverlap"
